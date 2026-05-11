@@ -1,0 +1,6 @@
+classes= 80
+train=raw_data/coco2014/trainvalno5k.txt
+valid=raw_data/coco2014/5k.txt
+names=raw_data/coco2014/coco.names
+backup=backup/
+eval=coco
