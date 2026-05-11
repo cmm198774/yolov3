@@ -28,6 +28,7 @@ A PyTorch implementation of the YOLOv3 object detection model, trained on the CO
 ├── detect/             # Detection output images
 └── log/                # Training logs
 ```
+raw_data and checkpoint data is uploaded to baidu net disk: https://pan.baidu.com/s/1zjSTes1c0lKJAssmKnP1kQ,secret code  b4wn
 
 ## Architecture
 
